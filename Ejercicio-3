@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Imagen, Audio y Video</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a Utilizar Imagenes</h1>
+        <img src="https://w7.pngwing.com/pngs/384/403/png-transparent-stormtrooper-star-wars-anakin-skywalker-logo-stormtrooper-text-war-silhouette.png" alt="Logo Star Wars" width="300" height="300">
+
+        <h1>Aprendiendo a Utilizar Videos</h1>
+        <video autoplay width="300" height="300" controls loop muted>
+            <source src="Imagenes/Video adtr.mp4" type="video/mp4">
+        </video>
+
+        <h1>Aprendiendo a Utilizar Audio</h1>
+        <audio autoplay controls loop>
+            <source src="Imagenes/Audio adtr.mp3" type="audio/mp3">
+        </audio>
+    </body>
+</html>
