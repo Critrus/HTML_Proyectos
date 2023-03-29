@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Titulo</th>
+                <th> Autor</th>
+                <th> Año de Publicacion</th>
+                <th> Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Fundacion</td>
+                <td> Isaac Asimov</td>
+                <td> 1951</td>
+                <td><a href="https://www.amazon.com/-/es/Isaac-Asimov-ebook/dp/B006543F8Y"> Trilogia</a></td>
+            </tr>
+            <tr>
+                <td>Fundacion e Imperio</td>
+                <td> Isaac Asimov</td>
+                <td> 1952</td>
+                <td><a href="https://www.amazon.com/-/es/Isaac-Asimov-ebook/dp/B006543F8Y"> Trilogia</a></td>
+            </tr>
+            <tr>
+                <td>Segunda Fundacion</td>
+                <td> Isaac Asimov</td>
+                <td> 1953</td>
+                <td><a href="https://www.amazon.com/-/es/Isaac-Asimov-ebook/dp/B006543F8Y"> Trilogia</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
