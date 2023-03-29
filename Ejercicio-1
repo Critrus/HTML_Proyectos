@@ -7,11 +7,11 @@
         <!--Este es mi primer comentario de dos lineas
         Aprendiendo a documentar mi codigo con OpenBootcamp-->
 
-        <ol>
+        <ul>
             <h3>Videos Favoritos</h3>
             <li><a href="https://www.youtube.com/watch?v=mg-T-EhXLoE&ab_channel=violistarevirtuoso">La Caida de Edgar</a></li>
             <li><a href="https://www.youtube.com/watch?v=Cr-gjJRxZy8&ab_channel=Elchileno2.0lml.">148 Chileno</a></li>
             <li><a href="https://www.youtube.com/watch?v=gRCkryenDqo&ab_channel=jhonsakuragi">Speed- Analog Fish</a></li>
-        </ol>
+        </ul>
     </body>
 </html>
